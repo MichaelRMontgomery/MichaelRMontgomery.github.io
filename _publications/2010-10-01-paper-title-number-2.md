@@ -1,6 +1,5 @@
 ---
 title: "Colored planar algebras for commuting squares and applications to Hadamard subfactors"
-date: "2023"
 citation: 'M. Montgomery. Journal of Functional Analysis 285(5), 2023.'
 ---
 
