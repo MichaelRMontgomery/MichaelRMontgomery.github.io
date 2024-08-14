@@ -1,7 +1,8 @@
 ---
 title: "Colored planar algebras for commuting squares and applications to Hadamard subfactors"
 collection: publications
-category: Journal Articles
+category: manuscripts
+permalink: /publication/Colored planar algebras for commuting squares and applications to Hadamard subfactors
 date: 2023-9-1
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0022123623001672'
 venue: 'Journal of Functional analysis'
