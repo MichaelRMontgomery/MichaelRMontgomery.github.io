@@ -1,7 +1,6 @@
 ---
 title: "The spectrum of spin model angle operators"
 category: manuscripts
-date: "2021"
 venue: arxiv:2110.06720
 ---
 
