@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematics, Vanderbilt University, 2022
-  * Dissertation Topic: Angle Operators of Commuting Square Subfactors
+  * Dissertation Topic: <a href="https://ir.vanderbilt.edu/handle/1803/17523"> Angle Operators of Commuting Square Subfactors </a>
   * Advisor: Dietmar Bisch
 * B.S. in Mathematics, Vanderbilt University, 2017
 
