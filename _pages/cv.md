@@ -81,3 +81,4 @@ Service and leadership
 2019-2022 Mentor for the Directed Reading Program at Vanderbilt University  
 2024 Mentor for the Directed Reading Program at Dartmouth College  
 2024 Co-Organizer for the Functional Analysis Seminar at Dartmouth College  
+2024 Reviewer for the International Journal of Mathematics  
