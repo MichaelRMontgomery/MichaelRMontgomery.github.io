@@ -63,21 +63,21 @@ Colored planar algebras for commuting squares and applications to Hadamard subfa
   
 Teaching
 ======
-Fall  2016  Teaching Assistant, Calculus I
-Spring  2017  Teaching Assistant, Number Theory
-Fall  2018  Teaching Assistant, Calculus II
-Spring  2019  Teaching Assistant, Calculus II
-Fall  2019  Teaching Assistant, Calculus I
-Spring  2020  Instructor, Calculus II
-Fall  2020  Teaching Assistant, Calculus I
-Spring  2021  Instructor, Calculus II
-Fall  2021  Teaching Assistant, Calculus I
-Fall  2022  Instructor Math 11(Accelerated Multivariable Calculus)
-Fall  2023  Instructor Math 11(Accelerated Multivariable Calculus)
+Fall  2016  Teaching Assistant, Calculus I  
+Spring  2017  Teaching Assistant, Number Theory  
+Fall  2018  Teaching Assistant, Calculus II  
+Spring  2019  Teaching Assistant, Calculus II  
+Fall  2019  Teaching Assistant, Calculus I  
+Spring  2020  Instructor, Calculus II  
+Fall  2020  Teaching Assistant, Calculus I  
+Spring  2021  Instructor, Calculus II  
+Fall  2021  Teaching Assistant, Calculus I  
+Fall  2022  Instructor Math 11(Accelerated Multivariable Calculus)  
+Fall  2023  Instructor Math 11(Accelerated Multivariable Calculus)  
   
 Service and leadership
 ======
-2018-2020 Organizer for the Undergraduate Mathematics Seminar at Vanderbilt University
-2019-2022 Mentor for the Directed Reading Program at Vanderbilt University
-2024 Mentor for the Directed Reading Program at Dartmouth College
-2024 Co-Organizer for the Functional Analysis Seminar at Dartmouth College
+2018-2020 Organizer for the Undergraduate Mathematics Seminar at Vanderbilt University  
+2019-2022 Mentor for the Directed Reading Program at Vanderbilt University  
+2024 Mentor for the Directed Reading Program at Dartmouth College  
+2024 Co-Organizer for the Functional Analysis Seminar at Dartmouth College  
